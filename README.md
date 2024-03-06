@@ -1,10 +1,5 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
 
-```
-Name : KEERTHI VASAN A
-Reg.No : 212222240048
-Date : 05.04.2024
-```
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
